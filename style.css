@@ -1,0 +1,40 @@
+body {
+	background-color: #80B5D5;
+}
+
+table {
+	color: black;
+	margin-top:100px;
+	text-align: left;
+	font-family: sans-serif;
+}
+
+th {
+
+	font-size: 20px;
+	margin-top:5px;
+	color:black;
+
+}
+
+
+td {
+	width:600px;
+	font-size: 16px;
+	color:black;
+}
+
+.tableDiv{
+	margin-left:20px;
+	margin-top:50px;
+	float:left;
+}
+.floatleft {
+	background-color: black;
+	float: left;
+}
+
+.container {
+   position: relative;
+}
+
